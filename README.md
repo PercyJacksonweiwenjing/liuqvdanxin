@@ -23,7 +23,7 @@
 | 第一卷 | **山河未肯休** | 已完结，第1—60章，本仓库提供全文 |
 | 第二卷 | **关山从头越** | 修订中，暂未在本仓库发布 |
 
-**[开始阅读第一卷](chapter-001.md)** · **[章节目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuq-danxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
+**[开始阅读第一卷](chapter-001.md)** · **[章节目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
 
 TXT 为作者提供的第一卷原文件，免费阅读、免费下载。点击下载链接后，若浏览器直接显示正文，可使用“另存为”保存为 `.txt`；也可打开仓库中的 TXT 文件，点击 **Download raw file** 下载。
 
@@ -43,7 +43,7 @@ TXT 为作者提供的第一卷原文件，免费阅读、免费下载。点击�
 
 ## 交流与勘误
 
-欢迎通过本仓库的 [Issues](https://github.com/PercyJacksonweiwenjing/liuq-danxin/issues) 留下阅读感想，或指出错字、时间线及情节问题。涉及后续情节时，请标明剧透章节。
+欢迎通过本仓库的 [Issues](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/issues) 留下阅读感想，或指出错字、时间线及情节问题。涉及后续情节时，请标明剧透章节。
 
 ## 版权说明
 
