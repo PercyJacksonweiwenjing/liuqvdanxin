@@ -21,11 +21,14 @@
 | 卷次 | 卷名 | 发布状态 |
 | --- | --- | --- |
 | 第一卷 | **山河未肯休** | 已完结，第1—60章，本仓库提供全文 |
-| 第二卷 | **关山从头越** | 修订中，暂未在本仓库发布 |
+| 第二卷 | **关山从头越** | 已完结，第61—120章，本仓库提供全文 |
+| 第三卷 | **长缨缚苍龙** | 修订中，暂未在本仓库发布 |
 
 **[开始阅读第一卷](chapter-001.md)** · **[章节目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
 
-TXT 为作者提供的第一卷原文件，免费阅读、免费下载。点击下载链接后，若浏览器直接显示正文，可使用“另存为”保存为 `.txt`；也可打开仓库中的 TXT 文件，点击 **Download raw file** 下载。
+**[开始阅读第二卷](chapter-061.md)** · **[第二卷目录](CONTENTS-V2.md)** · **[下载第二卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第二卷.txt)**
+
+两卷均免费阅读、免费下载。点击下载链接后，若浏览器直接显示正文，可使用“另存为”保存为 `.txt`；也可打开仓库中的 TXT 文件，点击 **Download raw file** 下载。
 
 本书为架空历史小说，历史背景与虚构情节交织，请勿将小说情节当作史实引用。
 
