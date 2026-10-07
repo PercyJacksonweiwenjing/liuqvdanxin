@@ -24,7 +24,7 @@
 | 第二卷 | **关山从头越** | 已完结，第61—120章，本仓库提供全文 |
 | 第三卷 | **长缨缚苍龙** | 修订中，暂未在本仓库发布 |
 
-**[开始阅读第一卷](chapter-001.md)** · **[章节目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
+**[开始阅读第一卷](chapter-001.md)** · **[第一卷目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
 
 **[开始阅读第二卷](chapter-061.md)** · **[第二卷目录](CONTENTS-V2.md)** · **[下载第二卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第二卷.txt)**
 

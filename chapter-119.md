@@ -210,4 +210,4 @@
 
 ---
 
-[上一章](chapter-118.md) · [第二卷目录](CONTENTS-V2.md) · [作品首页](README.md) · [下一章](chapter-120.md)
+[上一章](chapter-118.md) · [目录](CONTENTS-V2.md) · [下一章](chapter-120.md)

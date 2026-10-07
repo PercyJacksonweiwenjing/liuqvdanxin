@@ -1,8 +1,6 @@
 # 第一卷·山河未肯休
 
-[第二卷·关山从头越（第61—120章）](CONTENTS-V2.md)
-
-[返回作品首页](README.md) · [下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)
+[返回作品首页](README.md) · [第二卷目录](CONTENTS-V2.md) · [下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)
 
 - [第一章　以身殉国，有死而已](chapter-001.md)
 - [第二章　千里奔袭](chapter-002.md)

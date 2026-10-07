@@ -286,4 +286,4 @@
 
 ---
 
-[上一章](chapter-119.md) · [第二卷目录](CONTENTS-V2.md) · [作品首页](README.md)
+[上一章](chapter-119.md) · [目录](CONTENTS-V2.md)
