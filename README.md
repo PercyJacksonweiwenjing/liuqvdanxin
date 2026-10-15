@@ -18,23 +18,26 @@
 
 ## 分卷与阅读
 
-| 卷次 | 卷名 | 发布状态 |
-| --- | --- | --- |
-| 第一卷 | **山河未肯休** | 已完结，第1—60章，本仓库提供全文 |
-| 第二卷 | **关山从头越** | 已完结，第61—120章，本仓库提供全文 |
-| 第三卷 | **长缨缚苍龙** | 修订中，暂未在本仓库发布 |
+本次发布包含四卷共240章的当前修订版，后续勘误将继续同步。
 
-**[开始阅读第一卷](chapter-001.md)** · **[第一卷目录](CONTENTS.md)** · **[下载第一卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt)**
+| 卷次 | 卷名 | 章节 | 在线阅读 | TXT下载 |
+| --- | --- | --- | --- | --- |
+| 第一卷 | **山河未肯休** | 1—60 | [目录](CONTENTS.md) | [下载](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第一卷.txt) |
+| 第二卷 | **关山从头越** | 61—120 | [目录](CONTENTS-V2.md) | [下载](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第二卷.txt) |
+| 第三卷 | **长缨缚苍龙** | 121—180 | [目录](CONTENTS-V3.md) | [下载](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第三卷.txt) |
+| 第四卷 | **旌旗卷中原** | 181—240 | [目录](CONTENTS-V4.md) | [下载](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第四卷.txt) |
 
-**[开始阅读第二卷](chapter-061.md)** · **[第二卷目录](CONTENTS-V2.md)** · **[下载第二卷 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_第二卷.txt)**
+**[下载四卷合集 TXT](https://github.com/PercyJacksonweiwenjing/liuqvdanxin/raw/refs/heads/main/留取丹心_四卷合集.txt)** · [四卷合集 Markdown](留取丹心_四卷合集.md)
 
-两卷均免费阅读、免费下载。点击下载链接后，若浏览器直接显示正文，可使用“另存为”保存为 `.txt`；也可打开仓库中的 TXT 文件，点击 **Download raw file** 下载。
+Markdown 分卷：[第一卷](留取丹心_第一卷.md) · [第二卷](留取丹心_第二卷.md) · [第三卷](留取丹心_第三卷.md) · [第四卷](留取丹心_第四卷.md)
 
-本书为架空历史小说，历史背景与虚构情节交织，请勿将小说情节当作史实引用。
+四卷均免费阅读、免费下载。下载链接若直接显示正文，可使用浏览器“另存为”，或在文件页面点击 Download raw file。
+
+本书为架空历史小说，请勿将小说情节当作史实引用。
 
 ## 故事疆域图
 
-以下四图采用相同视野，展示各阶段的主要控制范围，包含蒙古、朝鲜、日本及东南亚等周边地区。**含第一至第三卷剧情信息，第三卷地图为修订中版本。** 点击图片可查看大图。
+以下五图采用相同视野，展示各阶段的主要控制范围，包含蒙古、朝鲜、日本及东南亚等周边地区。**含第一至第四卷剧情信息。** 点击图片可查看大图。
 
 ### 第一卷开始前 · 1931年9月8日
 
@@ -54,11 +57,17 @@
 
 ![第二卷结束后的控制范围](03-after-volume-two.png)
 
-### 第三卷结束 · 1933年12月（修订中）
+### 第三卷结束 · 1933年12月
 
 《长缨缚苍龙》卷终，北方人民政府控制范围。
 
 ![第三卷结束后的控制范围](04-after-volume-three.png)
+
+### 第四卷结束 · 1934年12月末
+
+《旌旗卷中原》卷终。陕甘宁与新疆全境完成军政接管，中原会战取得豫北纵深；郑州与旧铁路桥头尚未收复，江西苏区仍未与北方连成一片。
+
+![第四卷结束后的控制范围](05-after-volume-four.png)
 
 地图为小说设定示意，非真实历史疆域图，亦不等同于《留取丹心》游戏 MOD 的开局版图。底图采用 DataV 与 Natural Earth 地理数据，现代边界仅供定位；苏区边缘、交通走廊宽度不代表精确县界，灰色地区不等于南京直接控制。
 
