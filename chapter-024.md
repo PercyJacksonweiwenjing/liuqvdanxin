@@ -178,6 +178,4 @@
 
 ---
 
----
-
 [上一章](chapter-023.md) · [第一卷目录](CONTENTS.md) · [下一章](chapter-025.md)

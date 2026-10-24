@@ -184,6 +184,4 @@
 
 ---
 
----
-
 [上一章](chapter-030.md) · [第一卷目录](CONTENTS.md) · [下一章](chapter-032.md)
