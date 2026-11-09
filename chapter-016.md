@@ -336,4 +336,6 @@
 
 ---
 
-[上一章](chapter-015.md) · [第一卷目录](CONTENTS.md) · [下一章](chapter-017.md)
+---
+
+[首页](README.md) · [第一卷目录](CONTENTS.md) · [上一章](chapter-015.md) · [下一章](chapter-017.md)
